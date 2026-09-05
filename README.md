@@ -1,0 +1,2 @@
+# Analisis-Sentimen-Dola-di-Google-Playstore-Menggunakan-IndoBERT-dan-SVM
+Dalam penelitian ini, saya menggunakan google collab sebagai media untuk proses analisis sentimennya. file yang saya uploud di sini terbagi menjadi 5 bagian. yaitu scraping dola dari playstore dan proses analisis sentimen indoBERT dan SVM dengan 2 skenario yaitu 80:20 dan 70:30
